@@ -1,6 +1,6 @@
     /* Your styles for the page */
     body {
-          height: -webkit-fill-available;
+   
     }
 .overlay {
         position: fixed; /* Keep the overlay on top */
@@ -115,7 +115,7 @@ id
   
       text-align: center;
       
-    height: -webkit-fill-available;
+
   }
 
  @media only screen and (max-width: 500px) {
@@ -132,7 +132,7 @@ id
   
     .container {
       margin-top: 30px;
-          height: -webkit-fill-available;
+
     }
   
     /* Adjust the overlay content for smaller screens */
