@@ -115,10 +115,10 @@ id
   
   }
 
- @media only screen and (max-width: 360px) {
+ @media only screen and (max-width: 500px) {
     /* Adjust font sizes and layout for smaller screens */
     h1 {
-      font-size: 100em;
+      font-size: 10em;
       margin-top: 50%;
     }
   
