@@ -45,7 +45,7 @@ id
     color: pink; /* White color */
     font-weight: bold;
     text-align: center; /* Center the text horizontally */
-    background-color: pink;
+    background-color: rgb(172, 60, 157);
     border-color: red;
     border-width: 2px;
     border-radius: 30px;
