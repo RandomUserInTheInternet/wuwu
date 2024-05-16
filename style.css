@@ -116,7 +116,7 @@ id
   }
 
  /* Make the styles responsive */
-@media (max-width: 360px) {
+@media (max-width: 720px) {
     /* Adjust font sizes and layout for smaller screens */
     h1 {
       font-size: 100dvh;
